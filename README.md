@@ -20,7 +20,6 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # PROCEDURE:
-<img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
 
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
