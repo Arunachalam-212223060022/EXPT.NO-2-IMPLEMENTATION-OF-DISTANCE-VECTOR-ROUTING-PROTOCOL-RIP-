@@ -4,14 +4,23 @@
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
 
-
+<img width="1600" height="669" alt="image" src="https://github.com/user-attachments/assets/57852b38-bf8d-4c66-8a40-9122268d0ab6" />
 
 # IP ASSIGNMENT:
+
+<img width="1600" height="1035" alt="image" src="https://github.com/user-attachments/assets/16a7705c-10e2-4fc5-af6b-e3291e997bb8" />
 
 
 
 # NETWORK DIAGRAM:
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/784b5f05-44a4-4177-bc3d-216893717ac2" />
+
+<img width="1316" height="1600" alt="image" src="https://github.com/user-attachments/assets/c203e3ad-8adf-446d-9bdd-3a1b173e7cfd" />
+
+
 # PROCEDURE:
+<img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
 
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
@@ -80,8 +89,11 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
+<img width="951" height="533" alt="image" src="https://github.com/user-attachments/assets/f82f1a75-03f1-4e0a-a269-c7fa2dab1b68" />
 
+<img width="608" height="600" alt="image" src="https://github.com/user-attachments/assets/41eda4f5-efef-480b-a581-9fc14f1ba20b" />
 
 # RESULT:
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
+Thus the computers in multiple networks using Distance Vector Routing
+
